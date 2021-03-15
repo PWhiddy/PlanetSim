@@ -1,0 +1,44 @@
+Planet
+------ Properties and natural resources (split?)
+ - population
+ - shelter
+ - gravity
+ - temperature
+ - atmosphere
+ - radiation shielding
+ - soil coverage
+ - oxygen
+ - air pollution
+ - water
+ - copper
+ - gold
+ - lithium
+ - phosphorus 
+ - oil
+ - natural gas
+ - coal
+ - iron
+ - aluminum
+ - uranium
+ - forest
+ - minerals
+ - rare metals
+ ----------- Intermediate resources (Products?)
+
+ ----------- Tech Assets (Each has build and operating cost in terms of resources, power, and human time)
+
+- coal plants
+- natural gas plants
+- wind plants
+- solar plants
+- nuclear plants
+- Metal plants 
+- Mines (break into types?)
+- Chemical plants
+- Cement Plant
+- Oil refineries
+- Plastics Factories
+- Metal Factories
+- Electronics Factories
+- Microprocessor Foundries
+- Glass factory
